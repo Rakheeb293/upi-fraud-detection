@@ -1,0 +1,18 @@
+Amount,MerchantCategory,TransactionType,Latitude,Longitude,AvgTransactionAmount,TransactionFrequency,UnusualLocation,UnusualAmount,NewDevice,FailedAttempts,BankName
+5929.44,Clothing,P2M,12.0795365,-176.523211,3537.67,5/day,Yes,Yes,No,3,Kotak Mahindra Bank
+1970.79,Restaurants,P2P,-34.644748,-98.430247,4454.05,1/day,No,No,No,3,State Bank of India
+4796.61,Electronics,P2P,66.6624645,158.702674,9025.14,5/day,Yes,No,No,3,Bank of Baroda
+5242.5,Groceries,P2P,-30.5844385,-168.579851,9539.67,5/day,Yes,Yes,No,2,ICICI Bank
+2270.71,Groceries,P2M,-3.559663,-112.296185,5650.96,3/day,No,No,Yes,4,ICICI Bank
+8803.28,Electronics,P2M,30.5738755,113.186247,4681.6,3/day,No,Yes,Yes,3,Bank of Baroda
+4232.34,Travel,P2M,40.8664555,12.489566,4469.03,3/day,No,Yes,Yes,1,Bank of Baroda
+4153.99,Electronics,P2M,-44.2156405,-115.250614,2940.52,3/day,Yes,No,No,4,ICICI Bank
+8330.0,Electronics,P2P,75.4829475,79.427628,9727.97,1/day,No,No,Yes,1,Bank of Baroda
+5004.14,Entertainment,P2M,27.85599,-54.576335,4367.64,3/day,No,Yes,No,1,Kotak Mahindra Bank
+7819.82,Groceries,P2P,74.3191225,73.465472,7093.92,3/day,No,No,No,1,State Bank of India
+8588.64,Restaurants,P2P,-56.8693255,-3.349539,4088.26,5/day,Yes,Yes,No,0,HDFC Bank
+4280.32,Groceries,P2M,-6.199039,-52.687024,5736.38,5/day,Yes,No,No,3,Kotak Mahindra Bank
+3162.16,Restaurants,P2M,-29.091425,-15.881386,16.14,3/day,Yes,No,No,3,Kotak Mahindra Bank
+7553.7,Utilities,P2P,-74.547408,-23.41923,6693.09,1/day,Yes,Yes,Yes,2,HDFC Bank
+6151.53,Electronics,P2M,-77.800226,15.143892,325.58,1/day,No,Yes,Yes,0,Kotak Mahindra Bank
+1290.21,Restaurants,P2M,63.0103475,-105.361683,9590.17,5/day,No,Yes,No,4,Axis Bank

@@ -1,0 +1,40 @@
+Amount,MerchantCategory,TransactionType,Latitude,Longitude,AvgTransactionAmount,TransactionFrequency,UnusualLocation,UnusualAmount,NewDevice,FailedAttempts,BankName
+8813.98,Electronics,P2M,13.0201055,132.759729,8090.66,3/day,True,True,True,0,ICICI Bank
+4167.57,Entertainment,P2M,-66.882576,32.280843,4235.95,1/day,False,True,True,1,ICICI Bank
+1152.24,Travel,P2P,-23.420155,-44.227869,8534.44,3/day,True,True,True,4,Bank of Baroda
+6527.71,Electronics,P2P,33.208754,-146.244522,758.55,3/day,True,True,True,0,Kotak Mahindra Bank
+1888.64,Entertainment,P2P,62.922756,115.973352,2605.43,5/day,True,False,False,0,Bank of Baroda
+6223.03,Electronics,P2M,-6.8422755,19.017412,7762.32,5/day,False,False,True,1,ICICI Bank
+6106.37,Electronics,P2M,58.7043725,-44.440368,3857.71,3/day,False,True,True,4,Kotak Mahindra Bank
+2710.3,Clothing,P2P,69.035036,49.696726,4651.37,5/day,True,False,True,4,Bank of Baroda
+4840.53,Electronics,P2P,-67.6396035,15.661839,2227.07,1/day,False,True,True,2,HDFC Bank
+5864.27,Groceries,P2P,39.512426,-123.607838,3329.0,1/day,False,False,False,1,ICICI Bank
+5091.57,Restaurants,P2P,-20.899796,-60.923401,1739.52,3/day,False,True,True,2,Axis Bank
+4858.26,Groceries,P2M,66.26304,100.46282,8702.46,1/day,False,False,False,1,Kotak Mahindra Bank
+5655.76,Groceries,P2P,57.471781,142.94179,7981.32,3/day,True,True,False,1,Axis Bank
+2827.64,Electronics,P2M,-57.8725535,-118.607753,5322.19,5/day,True,True,False,1,Bank of Baroda
+5991.57,Electronics,P2M,-46.9480935,67.23779,3004.99,5/day,True,True,False,2,Kotak Mahindra Bank
+1138.21,Restaurants,P2M,-31.6005505,-30.387028,1529.56,3/day,False,True,False,4,Bank of Baroda
+2172.22,Clothing,P2M,9.319717,-166.123414,4436.35,1/day,False,True,True,2,Axis Bank
+8728.18,Groceries,P2M,24.919908,32.962863,1858.38,1/day,False,False,True,4,HDFC Bank
+5236.15,Travel,P2M,-34.6302555,13.478129,6293.56,1/day,False,True,False,0,State Bank of India
+489.41,Groceries,P2M,25.1983965,-120.304321,2147.25,5/day,False,False,False,1,ICICI Bank
+3142.25,Electronics,P2M,59.239424,123.529104,9041.16,5/day,False,False,False,1,Kotak Mahindra Bank
+346.02,Utilities,P2M,24.899025,159.093382,3131.37,3/day,True,True,True,1,Axis Bank
+5336.89,Groceries,P2M,87.9920785,89.744547,6866.7,1/day,False,False,False,0,ICICI Bank
+9634.56,Clothing,P2P,-59.9137305,173.920055,6191.0,3/day,True,False,False,0,Bank of Baroda
+4970.07,Clothing,P2M,39.679284,-99.073902,8531.41,3/day,True,True,True,4,ICICI Bank
+6737.49,Entertainment,P2P,-55.993435,4.495254,1346.46,5/day,False,False,True,0,HDFC Bank
+4883.66,Restaurants,P2P,-10.4772235,77.521518,2957.9,5/day,False,True,False,0,Kotak Mahindra Bank
+3738.28,Electronics,P2M,8.8606235,95.523582,2494.5,1/day,False,False,False,3,ICICI Bank
+1399.25,Clothing,P2M,-32.1165675,149.815507,202.4,1/day,False,True,True,1,State Bank of India
+5598.7,Travel,P2M,-87.923992,63.017033,599.86,5/day,True,True,True,3,HDFC Bank
+7145.78,Electronics,P2M,-81.0056665,129.288207,753.68,5/day,False,False,False,4,HDFC Bank
+8144.79,Clothing,P2P,13.5488935,-80.044365,5695.86,5/day,True,False,False,3,State Bank of India
+5300.35,Clothing,P2M,44.034748,63.654416,5727.9,1/day,False,False,True,2,Bank of Baroda
+5896.2,Travel,P2M,-44.6705845,148.94893,9725.52,1/day,True,True,False,2,Kotak Mahindra Bank
+1715.81,Electronics,P2P,16.21448,148.311692,3695.46,5/day,False,False,False,4,Axis Bank
+2011.16,Electronics,P2M,-57.534953,-26.441654,6505.82,1/day,False,True,True,1,Axis Bank
+
+
+

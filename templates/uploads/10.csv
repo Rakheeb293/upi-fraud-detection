@@ -1,0 +1,11 @@
+Amount,MerchantCategory,TransactionType,Latitude,Longitude,AvgTransactionAmount,TransactionFrequency,UnusualLocation,UnusualAmount,NewDevice,FailedAttempts,BankName,result
+9000.00,Electronics,P2M,23.354478,-40.536076,670.31,5/day,No,Yes,No,2,ICICI Bank,Fraud
+150.00,Restaurants,P2P,19.0760,72.8777,200.00,3/day,No,No,Yes,0,HDFC Bank,Legit
+350.00,Groceries,P2M,28.7041,77.1025,400.00,1/day,Yes,No,No,1,Axis Bank,Legit
+4500.00,Travel,P2P,34.0522,-118.2437,2500.00,5/day,No,Yes,No,3,State Bank of India,Fraud
+120.00,Clothing,P2M,40.7128,-74.0060,100.00,1/day,No,No,No,0,Kotak Mahindra Bank,Legit
+2300.00,Entertainment,P2P,37.7749,-122.4194,1500.00,3/day,Yes,Yes,Yes,4,ICICI Bank,Fraud
+75.00,Utilities,P2M,51.5074,-0.1278,90.00,1/day,No,No,No,0,HDFC Bank,Legit
+6000.00,Electronics,P2P,48.8566,2.3522,5000.00,5/day,Yes,Yes,No,5,State Bank of India,Fraud
+180.00,Groceries,P2M,55.7558,37.6173,200.00,3/day,No,No,Yes,0,Axis Bank,Legit
+5200.00,Travel,P2P,35.6895,139.6917,4000.00,5/day,Yes,Yes,Yes,6,Kotak Mahindra Bank,Fraud
